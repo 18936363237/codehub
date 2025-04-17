@@ -1,4 +1,6 @@
 123456
 This is my first git file for testing!
 789
-The second version
+3333333
+diff function
+The third version
